@@ -6,13 +6,14 @@ A Java-based project to manage sports tournaments.
 
 - [Natty Zepko](https://github.com/NattyZepko)
 - [Ran Yunger](https://github.com/RanYunger)
-- [Bar Mizrahi](https://github.com/?)
-- [Noa Aviel](https://github.com/?)
+- [Bar Mizrahi](https://github.com/barmizrahi)
+- [Noa Aviel](https://github.com/noaaviel)
  
 ## Features
 
 - Levels - 2 game levels, each consist of a BSP-made maze and guards.
-- Line of Sight - The player can see the guards' lines of sight to him: light blue - unseen; Red - seen.
+- Lives - The player starts the game with 5 lives.
+- Line of Sight - Ability to toggle the visibility of the guards' lines of sight to the player: light blue - unseen; Red - seen.
 
 ## Screenshots
 
