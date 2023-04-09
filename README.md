@@ -1,6 +1,6 @@
 # MazeGame
 
-A Java-based project to manage sports tournaments.
+A Java-based project to manage A BSP-based maze game.
 
 ## Authors
 
